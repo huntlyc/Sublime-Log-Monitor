@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Log Monitor: Hello",
+        "command": "logmonitor_hello"
+    }
+]
