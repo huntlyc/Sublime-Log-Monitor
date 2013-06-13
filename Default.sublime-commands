@@ -1,6 +1,10 @@
 [
     {
-        "caption": "Log Monitor: Hello",
-        "command": "logmonitor_hello"
-    }
+        "caption": "LogMonitor: View",
+        "command": "log_monitor_view"
+    },
+    {
+        "caption": "LogMonitor: Delete",
+        "command": "log_monitor_delete"
+    },
 ]

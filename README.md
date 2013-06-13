@@ -1,2 +1,8 @@
 #Sublime Log Monitor
-Nothing to see here yet, a WIP for a simple log moitor plugin for Sublime Text.
+Simple log monitor for Sublime Text.  Not quite finished yet, but not too far
+off...
+
+##Still TODO
+[X] - Get a simple log watcher workind
+[ ] - Show in own window instead of the console
+[ ] - Allow multiple logs

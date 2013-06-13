@@ -1,3 +1,4 @@
 [
-    { "keys": ["ctrl+alt+l"], "command": "logmonitor_hello" }
+    { "keys": ["ctrl+alt+l"], "command": "log_monitor_view" },
+    { "keys": ["ctrl+alt+d"], "command": "log_monitor_delete" }
 ]

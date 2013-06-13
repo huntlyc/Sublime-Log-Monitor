@@ -1,21 +1,5 @@
 [
     {
-        "id": "tools",
-        "children":
-        [
-            {
-                "caption": "LogMonitor",
-                "children":
-                [
-                    {
-                        "caption": "LogHello",
-                        "command": "logmonitor_hello"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "caption": "Preferences",
         "mnemonic": "n",
         "id": "preferences",

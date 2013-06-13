@@ -1,4 +1,5 @@
 {
     //Path to where your wp-config.php file resides
-    "logmonitor_log_files": ["/var/log/apache2/huntlywordpress-error.log"]
+    "logmonitor_log_files": ["Z:\\huntlywordpress.co.uk\\test.log"],
+    "logmonitor_check_interval": 1.0
 }
