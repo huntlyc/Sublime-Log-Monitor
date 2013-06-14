@@ -4,6 +4,6 @@ off...
 
 ##Still TODO
 
-- [x] Get a simple log watcher workind
-- [ ] Show in own window instead of the console
+- [x] Get a simple log watcher working
+- [x] Show in own window instead of the console
 - [ ] Allow multiple logs
