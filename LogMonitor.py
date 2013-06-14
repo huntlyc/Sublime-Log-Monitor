@@ -58,7 +58,7 @@ class ShowLogCommand(sublime_plugin.TextCommand):
                                                              content))
                 self.output_view.set_read_only(True)
 
-                tstruct = time.gmtime(lh.last_modified)
+                tstruct = time.localtime(lh.last_modified)
                 ttimes = "{0}/{1}/{2} {3}:{4}:{5}".format(str(tstruct.tm_year),
                                                           str(tstruct.tm_mon),
                                                           str(tstruct.tm_mday),
