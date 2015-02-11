@@ -1,5 +1,25 @@
 [
     {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "LogMonitor",
+                "children":
+                [
+                    {
+                        "caption": "View Log",
+                        "command": "log_monitor_view"
+                    },
+                    {
+                        "caption": "Clear Log",
+                        "command": "log_monitor_delete"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "caption": "Preferences",
         "mnemonic": "n",
         "id": "preferences",
